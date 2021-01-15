@@ -19,7 +19,7 @@ Figure 5) To run the comparisons:
     To plot the results:
 - Rscript R/plotfactory/lowDtest.R
 
-Figure 6) Figure 6 involves a dataset of size 1.7G, which unfortunately cannot be uploaded to Manuscript Central. 
+Figure 6) Figure 6 involves a dataset of size 1.7G, will update with instructions for creating data yourself soon. 
 
 To create the associated pareto plots see "R/plotfactory/pareto.R" .
 
