@@ -1,0 +1,13 @@
+*.tar.gz
+*.pdf
+*.png
+*.swo
+*.swp
+*.RData
+*.zip
+
+tpm/
+backup/
+
+data/slice_localization_data.csv
+data/random_mopta.csv
